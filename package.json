@@ -1,0 +1,29 @@
+{
+  "name": "project-5",
+  "version": "1.0.0",
+  "description": "Shopping Cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TirthankarRoy007/Project-5.git"
+  },
+  "author": "Tirthankar Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TirthankarRoy007/Project-5/issues"
+  },
+  "homepage": "https://github.com/TirthankarRoy007/Project-5#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1313.0",
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
